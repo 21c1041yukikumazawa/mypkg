@@ -1,1 +1,5 @@
-# mypkg
+# mypk
+
+##このリポジトリはtalkerとlistenerの通信ができるものです
+
+###
