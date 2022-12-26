@@ -1,5 +1,5 @@
 # mypk
 
-##このリポジトリはtalkerとlistenerの通信ができるものです
+## このリポジトリはtalkerとlistenerの通信ができるものです
 
-###
+### ライセンス
