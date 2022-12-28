@@ -5,7 +5,7 @@
 ## talkerとlistenerが通信する様子を再現する。
 # 使い方
 ## ros2 run launch mypkg talk_listen.launch.pyを実行する。 
-# 必要なソフトウェア     
-* Python
+# 動作環境  
+### ros2がインストールされているUbuntu
 # ライセンス   
 ## BSDライセンスにより使用、再配布が許可されています。
