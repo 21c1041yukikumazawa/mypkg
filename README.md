@@ -6,6 +6,8 @@
 # 使い方
 ## ros2 run launch mypkg talk_listen.launch.pyを実行する。 
 # 動作環境  
-### ros2がインストールされているUbuntu
+## ros2がインストールされているUbuntu
+# テスト環境
+## Ubuntu
 # ライセンス   
 ## BSDライセンスにより使用、再配布が許可されています。
