@@ -4,7 +4,7 @@
 # このソフトウェアについて
 ## talkerとlistenerが通信する様子を再現する。
 # 使い方
-## launchを実行しtalker.pyとlistener.pyを一度に実行する。
+## ros2 run launch mypkg talk_listen.launch.pyを実行する。   talker.pyとlistener.pyを一度に実行する。
 # 必要なソフトウェア     
 ## * Python
 # ライセンス   
