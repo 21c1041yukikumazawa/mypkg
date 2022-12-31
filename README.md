@@ -11,7 +11,8 @@
 `$ ros2 run launch mypkg talk_listen.launch.py`
 * talkerからの通信をlistenerが拾えていればros2が正常に動作していることがわかる。 
 ## 動作環境  
-* ros2がインストールされているUbuntu
+* Ubuntu22.04LTS
+* ROS2 Humble
 ## テスト環境
 * Ubuntu22.04LTS
 ## ライセンス   
