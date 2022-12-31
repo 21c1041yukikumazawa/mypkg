@@ -1,6 +1,6 @@
 # mypkg
 ### [![test](https://github.com/21c1041yukikumazawa/mypkg/actions/workflows/test.yml/badge.svg)](https://github.com/21c1041yukikumazawa/mypkg/actions/workflows/test.yml)
-* このリポジトリはros2のテストをするためのリポジトリです。　　
+* このパッケージはros2のテストをするものです。　　
 ## このソフトウェアについて
 * パブリッシャーの*talker*とサブスクライバーの*listener*が通信する様子を再現する。
 * launchで*ros2 run*を実行するため*talker.py*と*listener.py*を同時に実行できる。
