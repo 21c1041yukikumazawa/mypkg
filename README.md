@@ -7,7 +7,7 @@
 ## インストール方法
 ### ros2がインストールされているUbuntuにこのリポジトリのクローンを作る。
 ## 使い方
-```ros2 run launch mypkg talk_listen.launch.py```を実行する。
+```ros2 run launch mypkg talk_listen.launch.py```###を実行する。
 ### talkerからの通信をlistenerが拾えていればros2が正常に動作していることがわかる。 
 ## 動作環境  
 ### ros2がインストールされているUbuntu
