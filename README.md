@@ -12,7 +12,7 @@
 * talkerからの通信をlistenerが拾えていればros2が正常に動作していることがわかる。 
 ## 動作環境  
 * OS
-   * Ubuntu22.04LTS
+ * Ubuntu22.04LTS
 * ROS2 Humble
 ## テスト環境
 * Ubuntu22.04LTS
